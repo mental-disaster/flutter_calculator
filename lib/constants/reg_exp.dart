@@ -1,0 +1,1 @@
+const calculable = '0123456789/*-+.';
